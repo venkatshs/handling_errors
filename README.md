@@ -22,4 +22,4 @@ And now copy the code from this repository in the 'challenge1_com.sol'
 To compile the code click on the third icon and set the compiler version to the required version and set it to auto compile.
 And after compiling the code sucessfully click on the below icon and deploy your code.
 
-## Author : Venkatesh
+## Author : Venkateswarlu
